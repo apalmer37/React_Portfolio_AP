@@ -2,17 +2,18 @@
     height: 100vh;
 }
 
-*{
+
+.container{
+    width: 100%;
+    height:calc(100% - 70px);
+    background-color: skyblue;
+    position: relative;
+    top: 70px;
+    scroll-snap-align: start;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
     overflow-x: hidden;
     
 }
 
-.container{
-    width: 100%;
-    height:calc(100% - 50px);
-    background-color: skyblue;
-    position: relative;
-    top: 50px;
-    
-}
 
