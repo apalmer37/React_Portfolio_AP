@@ -1,10 +1,18 @@
+h1#head.head{
+    float:center;
+}
+
 .intro{
-    background-color: whitesmoke;
+    background-color: lightgreen;
     width: 100%;
     height:calc(100% - 70px);
-    display:inline-flex;
-    overflow: hidden;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
 }
+
 
 
 .center-img {
@@ -20,6 +28,7 @@ p.about{
     max-width: 500px;
     object-fit: contain;
     display: inline-flex;
+    
 }
 
 

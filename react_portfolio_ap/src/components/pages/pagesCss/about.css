@@ -1,10 +1,12 @@
 .work{
-    background-color: pink;
+    background-color: lightgreen;
     display: flex;
     flex-direction: column;
 }
 
-
+h1{
+  text-align: center;
+}
 
 .container-work {
     display: flex;

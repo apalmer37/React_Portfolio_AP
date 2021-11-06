@@ -1,10 +1,11 @@
-import "./work.css"
+import React from 'react';
+import "./pagesCss/about.css"
 
-export default function Work() {
-    return(
-        <div className="work" id="work">
+export default function About() {
+  return (
+    <div className="work" id="work">
+      <h1>Portfolio</h1>
                 <div className="worktitle" id="worktitle">
-                    <h1>My Work</h1>
                 </div>
 
                 <div className="container-work">
@@ -41,5 +42,5 @@ export default function Work() {
                 </div>
             
         </div>
-    )
+  );
 }
