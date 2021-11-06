@@ -1,5 +1,25 @@
 .intro{
-    background-color: coral;
+    background-color: whitesmoke;
     width: 100%;
     height:calc(100% - 70px);
+    display:inline-flex;
+    overflow: hidden;
 }
+
+
+.center-img {
+    height: 300px;
+    max-width: 300px;
+    margin: 1% 0% 1% 0%;
+    object-fit: contain;
+    float: left;
+}
+
+p.about{
+    height:300px;
+    max-width: 500px;
+    object-fit: contain;
+    display: inline-flex;
+}
+
+
