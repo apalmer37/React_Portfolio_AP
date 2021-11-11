@@ -32,4 +32,4 @@ Reach out to me via email with any questions: alexpalmer37@gmail.com
 MIT
 
 ## Screenshot
-<img src="public/assets/portfolio.png">
+<img src='/Users/AP/UR-Bootcamp/React_Portfolio_AP/src/assets/portfolio.png'>
