@@ -6,6 +6,7 @@
 * [Links](#links)
 * [Questions](#questions)
 * [License](#license)
+* [Screenshot](#screenshot)
 
 ## Description
 Personal portfolio created using React. Uses a header and footer that stay throughout the operation while changing the content of the body by clicking on the different navigation links. About me tab is a description about myself. Portfolio tab displays 6 of my projects. Resume tab has my skills and link to resume. Contact tab has a form for submitting inquiries. 
@@ -19,6 +20,8 @@ Personal portfolio created using React. Uses a header and footer that stay throu
 
 ## Links
 https://apalmer37.github.io/React_Portfolio_AP/
+
+
 https://github.com/apalmer37/React_Portfolio_AP
 
 ## Questions
@@ -27,3 +30,6 @@ Reach out to me via email with any questions: alexpalmer37@gmail.com
 
 ## License
 MIT
+
+## Screenshot
+<img src="public/assets/portfolio.png">
