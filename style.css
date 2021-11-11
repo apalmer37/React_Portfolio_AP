@@ -1,0 +1,15 @@
+
+#footerDiv ul {
+    list-style-type: none;
+    background-color: darkgrey;
+    height: 100%;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#footerDiv li {
+    display: inline-block;
+    padding-left: 20px;
+}
+
