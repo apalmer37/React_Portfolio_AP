@@ -3,7 +3,7 @@ h1#head.head{
 }
 
 .intro{
-    background-color: lightgreen;
+    background-color: whitesmoke;
     width: 100%;
     height:calc(100% - 70px);
     display:flex;
@@ -24,11 +24,12 @@ h1#head.head{
 }
 
 p.about{
-    height:300px;
     max-width: 500px;
     object-fit: contain;
     display: inline-flex;
     
 }
 
-
+.footer{
+    background-color: lightgray;
+}
