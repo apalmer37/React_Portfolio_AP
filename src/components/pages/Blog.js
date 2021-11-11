@@ -1,11 +1,12 @@
 import React from 'react';
+import Resume from '../../assets/resume.docx.pdf';
 import "./pagesCss/resume.css"
 
 export default function Blog() {
   return (
     <div className="resumeDiv" id="resumeDiv">
       
-      <a href= "./assets/Resume.png"> Resume</a>
+      <a href= {Resume}> Resume</a>
       
       <p>
         Front-end Proficiencies
