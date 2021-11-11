@@ -18,7 +18,8 @@ Personal portfolio created using React. Uses a header and footer that stay throu
 * Github Pages
 
 ## Links
-
+https://apalmer37.github.io/React_Portfolio_AP/
+https://github.com/apalmer37/React_Portfolio_AP
 
 ## Questions
 Check out this repo on my Github: apalmer37.
